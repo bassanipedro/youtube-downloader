@@ -2,12 +2,12 @@
 
 ## Descrição
 
-O YouTube Downloader é uma aplicação GUI simples desenvolvida em Python que permite aos usuários baixar o áudio de vídeos do YouTube. A interface gráfica é construída usando Tkinter.
+O YouTube Downloader é uma aplicação GUI simples desenvolvida em Python que permite aos usuários baixar o áudio de vídeos do YouTube.
 
 ## Pré-requisitos
 
-- Python 3.x
-- pip (Python package installer)
+- Python 3.12.4
+- pip
 
 ## Instalação
 
