@@ -36,7 +36,7 @@ O YouTube Downloader é uma aplicação GUI simples desenvolvida em Python que p
 Para gerar o executável, deverá usar o seguinte comando:
 
 ```sh
-pyinstaller --onefile --windowed main.py
+pyinstaller --onefile --windowed .\src\main.py
 ```
 
 ## Autor
